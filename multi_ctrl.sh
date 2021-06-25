@@ -1,0 +1,9 @@
+python3 start.py 0
+python3 start.py 10
+python3 start.py 20
+python3 start.py 30
+python3 start.py 40
+python3 start.py 50
+python3 start.py 60
+python3 start.py 70
+python3 start.py 80
